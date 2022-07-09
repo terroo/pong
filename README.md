@@ -30,7 +30,7 @@ make
 ---
 
 # How to play
-Press:
+
 + `w`(up) or `s`(down) - To move the player on the LEFT
 + `↑`(up) or `↓`(down) - To move the player on the RIGHT
 
