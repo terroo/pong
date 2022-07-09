@@ -1,7 +1,7 @@
 # Pong
 A game similar to Atari's famous Pong, but with slightly different gameplay and remixed football-themed design. Made with C++ and SFML.
 
-[![Pong (soccer remix)](assets/img/pong.jpg)](assets/img/pong.jpg)
+[![Pong (soccer remix)](assets/img/pong.jpg)](https://youtu.be/cruLikMNhP0)
 
 ---
 
@@ -39,8 +39,6 @@ Press:
 ---
 
 # Additional
-This game was created in a Youtube video, if you want to watch it, visit: link .
-
-Created by: [terminalroot.com](https://terminalroot.com/)
+This game was created in a Youtube video, if you want to watch it, visit: <https://youtu.be/cruLikMNhP0> .
 
 
