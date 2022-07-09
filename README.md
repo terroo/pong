@@ -1,4 +1,4 @@
-# pong
+# Pong
 A game similar to Atari's famous Pong, but with slightly different gameplay and remixed football-themed design. Made with C++ and SFML.
 
 [![Pong (soccer remix)](assets/img/pong.jpg)](assets/img/pong.jpg)
